@@ -1,0 +1,14 @@
+package.json
+{
+  "name": "foodlaw-app",
+  "version": "1.0.0",
+  "description": "Document AI processing app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.7.0",
+    "express": "^4.17.1"
+  }
+}
